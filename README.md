@@ -2,5 +2,5 @@
 A base convertor.
 
 # Screenshots
-<img src="https://i.imgur.com/kU6ypkJ.jpg" />
-<img src="https://i.imgur.com/KYx8vpc.jpg" />
+<img src="https://i.imgur.com/hnSGvqb.png" />
+<img src="https://i.imgur.com/CpcuR1v.png" />
